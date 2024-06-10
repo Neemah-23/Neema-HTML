@@ -1,0 +1,18 @@
+fieldset{
+    border: dodgerblue solid 2px;
+}
+form{
+    width: 70%;
+}
+legend{
+    font-size: medium;
+    font-weight: bold;
+}
+input[type=text],input[type=email],input[type=textarea] {
+    width: 100%;
+    height: 40px;
+}
+select{
+    color: black;
+    background-color: salmon;
+}

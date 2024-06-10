@@ -1,0 +1,18 @@
+.first{
+    display: flex;
+}
+.second{
+    display: flex;
+}
+.third{
+    display: flex;
+}
+body{
+    margin-left: 40px;
+}
+p{
+    font-weight: bold;
+    font-size: large;
+    margin-left: 40px;
+    margin-top: 70px;
+}

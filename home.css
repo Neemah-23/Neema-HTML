@@ -1,0 +1,14 @@
+
+h1{font-style: italic;
+    font-size: large;
+    color: black;
+    background-color: antiquewhite;
+
+
+}
+img{
+    float: right;
+}
+h1:hover{background-color: red;
+
+}

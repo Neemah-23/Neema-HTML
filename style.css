@@ -1,0 +1,25 @@
+h1{color: black;
+    font-size: bold;
+    background-color: palevioletred;
+    line-height: normal;
+    text-align: center;
+    text-shadow: 4px 4px 12px greenyellow;
+    font-family: cursive;
+    font-style: normal;
+}
+p {
+    font-size: small;
+    font-style: italic;
+    margin-right: 200px;
+}
+img{
+    width: 300px;
+    height: 200px
+}
+
+h1:hover {
+    background-color: aqua;
+}
+img:hover{
+    opacity: 0.4;
+}
